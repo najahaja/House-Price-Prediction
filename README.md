@@ -21,7 +21,7 @@ The goal is to predict house prices based on features like square footage, bedro
 4. K-Nearest Neighbors (KNN)
 
 ## Dataset
-Source: [Kaggle Housing Dataset](https://www.kaggle.com/datasets/shivachandel/kc-house-data)  
+Source: [Kaggle Housing Dataset](https://www.kaggle.com/datasets/shree1992/housedata)  
 - **Rows**: 4,600  
 - **Columns**: 18 (original), 12 after preprocessing  
 
