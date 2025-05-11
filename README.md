@@ -41,7 +41,7 @@ Key Features:
 
 # How to Run
 ## Clone the repository:
-   bash
+  
    git clone https://github.com/najahaja/housing-price-prediction.git
 
 
