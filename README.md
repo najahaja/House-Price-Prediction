@@ -42,15 +42,15 @@ Key Features:
 # How to Run
 ## Clone the repository:
 
-bash
+```bash
 git clone https://github.com/your-username/housing-price-prediction.git
 ## Install dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
 ## Run the Jupyter notebook:
 
-bash
+```bash
 jupyter notebook House_Price_Prediction.ipynb
 
 
