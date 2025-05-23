@@ -8,10 +8,8 @@ This project predicts housing prices using machine learning models, focusing on 
 - [Features](#features)
 - [Data Preprocessing](#data-preprocessing)
 - [Models Used](#models-used)
-- [Results](#results)
 - [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
-- [License](#license)
+  
 
 ## Project Overview
 The goal is to predict house prices based on features like square footage, bedrooms, location, etc. Four regression models are compared:
